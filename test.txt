@@ -1,3 +1,7 @@
 szaszte baktalo romanelo selbes
 harmadik szerkesztés
+<<<<<<< HEAD
 ötödik.
+=======
+negyedik sz.
+>>>>>>> e72b123a236c5c8aafa9bcf020038afe094a0ff9
